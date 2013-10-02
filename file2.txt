@@ -2,4 +2,4 @@ file 2
 
 Added new line in the master branch
 
-Made a fix on this line
+replaced this line
